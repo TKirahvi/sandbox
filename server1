@@ -1,3 +1,7 @@
 server
+<<<<<<< HEAD
 client
 server1
+=======
+server
+>>>>>>> server-muutoksset
